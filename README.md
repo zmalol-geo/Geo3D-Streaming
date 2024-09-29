@@ -1,4 +1,4 @@
-# Geo3D Web Viewer: Streaming Large Data Meshes
+# Geo3D Streaming - visualisation of (very) large geological models meshes
 
 This project aims to provide efficient streaming of large 3D geological models to the [Geo3D Web Viewer](https://geo3d.pgi.gov.pl/), a platform for visualizing complex geological structures directly within a web browser. As 3D models continue to grow in size and complexity, geologists need a seamless way to publish and explore them across desktop and mobile devices.
 
